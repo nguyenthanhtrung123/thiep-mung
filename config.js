@@ -1,8 +1,8 @@
 const nameGirl = 'Em';
 const giftUrl = 'http://nodemy.vn';
-const eventName = 'Chúc Mừng 8/3 + one month love';
+const eventName = 'Chúc Mừng 8/3 ';
 const titleCard = 'Tặng người em';
-const contentCard = 'Chúc honey của anh tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau'. sẽ yêu anh nhiều hơn, dể thương xinh xắn hơn và đặt biệt bớt lỳ hờn <3;
+const contentCard = 'Chúc honey của anh tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với em trong hôm nay và cả những ngày sau';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
